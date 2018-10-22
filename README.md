@@ -12,7 +12,6 @@ npm install --save-dev write-json-webpack-plugin
 
 ```js
 // Add to your Webpack config file
-var path = require('path');
 var WriteJsonPlugin = require('write-json-webpack-plugin');
 
 module.exports = {
